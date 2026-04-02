@@ -1,0 +1,64 @@
+================================================================================
+  BBox Claudit v1.6 - Installation Instructions
+  © 2026 Donald Peters | BentoBox Tools
+================================================================================
+
+QUICK INSTALL (3 Steps)
+------------------------
+1. Copy claudit.py to your bin folder:
+   cp claudit.py ~/bin/claudit.py
+
+2. Copy claudit.cmd to your bin folder (Windows):
+   cp claudit.cmd ~/bin/claudit.cmd
+
+   OR make executable (Linux/Mac):
+   chmod +x ~/bin/claudit.py
+
+3. Ensure ~/bin is in your PATH
+
+CLAUDE CODE SKILL INTEGRATION
+------------------------------
+To use claudit as a slash command in Claude Code:
+
+1. Create skill directory:
+   mkdir -p ~/.claude/skills/claudit
+
+2. Create SKILL.md with:
+---
+name: claudit
+description: Audits Claude Code usage costs and caching savings. Use this when the user asks about spending, credits, or wants a cost breakdown.
+---
+
+# BBox Claudit
+When this skill is invoked, execute the `claudit` command and display the formatted output.
+
+## Trigger Keywords:
+- 'How much have I spent?'
+- 'Show my costs'
+- '/claudit'
+
+3. Restart Claude Code to load the skill
+
+USAGE
+-----
+Command line:
+  claudit           # Default CAD
+  claudit -c EUR    # Euros
+  claudit -c JPY    # Japanese Yen
+
+In Claude Code:
+  "/claudit" or ask "How much have I spent?"
+
+FEATURES
+--------
+✅ 100+ currencies with live exchange rates
+✅ Project-level cost breakdown
+✅ Prompt caching savings tracker
+✅ Multi-timeframe reporting (Daily/Weekly/Monthly/Yearly)
+✅ Idle day cost verification ($0.00)
+
+SUPPORT
+-------
+Liked the audit? Buy a coffee: https://ko-fi.com/bboxtools
+
+================================================================================

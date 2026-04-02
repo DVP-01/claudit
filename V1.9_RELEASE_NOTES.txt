@@ -1,0 +1,137 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ BBox Claudit v1.9 - Release Notes                                           │
+│ Perfect Visual Alignment                                                     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+RELEASE DATE: April 2, 2026
+VERSION: 1.9
+CODENAME: Perfect Visual Alignment
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎨 PERFECT BOBAI COLOR MATCHING
+────────────────────────────────
+
+We've completely overhauled the color palette to match BobAI's exact aesthetic
+using ANSI 256-color codes:
+
+┌─────────────────┬──────────────┬─────────────────────────────────┐
+│ Element         │ Color Code   │ Usage                           │
+├─────────────────┼──────────────┼─────────────────────────────────┤
+│ CYAN            │ 38;5;51      │ Section titles (bold)           │
+│ WHITE           │ 38;5;255     │ Subtitle text                   │
+│ GREY            │ 38;5;244     │ Copyright & metadata            │
+│ BOBAI_BLUE      │ 38;5;39      │ ALL borders & separators        │
+│ GREEN           │ 38;5;82      │ Savings, checkmarks, Ko-fi link │
+│ MAGENTA         │ 38;5;201     │ Local currency conversions      │
+│ YELLOW          │ 38;5;226     │ Pro tips & warnings             │
+│ WHITE_BOLD      │ 1;97         │ USD amounts                     │
+└─────────────────┴──────────────┴─────────────────────────────────┘
+
+📦 HEADER BOX REDESIGN
+──────────────────────
+
+The rounded Unicode box header now features perfect color hierarchy:
+
+┌─ Frame: BOBAI_BLUE (39) - All borders and corners (╭╮╰╯─│)
+├─ Title: CYAN (51) + BOLD - "BBox Claudit v1.9"
+├─ Subtitle: WHITE (255) - "The Universal Global Auditor"
+└─ Copyright: GREY (244) - "© 2026 Donald Peters | BentoBox Tools"
+
+🎯 UI POLISH ACHIEVEMENTS
+─────────────────────────
+
+✅ "Liked the audit?" line changed to GREEN (82)
+✅ ALL separator lines (─) changed to BOBAI_BLUE (39)
+✅ Main borders (═) changed to BOBAI_BLUE (39)
+✅ ✅ Daily Spend CONFIRMED as first item in summary
+✅ Consistent spacing and alignment throughout
+✅ Professional production-ready interface
+
+🌍 GLOBAL CURRENCY ENGINE (UNCHANGED)
+─────────────────────────────────────
+
+✅ Live Sync: https://api.frankfurter.dev/v2/latest
+✅ The Vault: 100+ ISO currencies with April 2026 fallback rates
+✅ Manual Override: claudit -c [ISO] works perfectly
+✅ ISO Labeling: $19.89 USD (17.31 EUR)
+
+📊 CURRENT SESSION STATS
+────────────────────────
+
+Your spending as of v1.9 launch:
+
+Daily:   $19.89 USD (27.19 CAD / 17.31 EUR)
+Weekly:  $19.89 USD
+Monthly: $19.89 USD
+Yearly:  $112.16 USD (155.44 CAD / 97.58 EUR)
+
+💰 Cache Savings: $394.81 USD saved (77.9%)
+📁 Active Project: Documents SEARCHABLE OBC - $38.35 (899 msgs)
+⏰ Idle Days: 70 out of 73 days = $0.00
+
+🚀 DISTRIBUTION PACKAGE
+───────────────────────
+
+Complete package in claudit_dist/:
+  ✅ claudit.py (32 KB, 859 lines)
+  ✅ claudit.cmd (Windows launcher)
+  ✅ README.txt (Complete documentation)
+  ✅ INSTALL.txt (Quick start guide)
+  ✅ CHANGELOG.txt (Full version history)
+  ✅ V1.9_RELEASE_NOTES.txt (This file)
+
+🔧 TECHNICAL DETAILS
+────────────────────
+
+Language: Python 3.8+
+Color Support: ANSI 256-color palette
+Platform: Windows, macOS, Linux (portable)
+Dependencies: None (uses stdlib only)
+API: Frankfurter.dev (open source, free)
+Currency Support: 100+ ISO 4217 codes
+
+📝 UPGRADE INSTRUCTIONS
+───────────────────────
+
+From v1.8:
+1. Replace claudit.py in your bin folder
+2. No configuration changes needed
+3. All features backward compatible
+4. Run: claudit
+
+From v1.7 or earlier:
+1. Copy new claudit.py to ~/bin/
+2. Update ~/.claude/skills/claudit/SKILL.md
+3. Restart terminal for PATH updates
+4. Run: claudit
+
+🎁 WHAT'S NEXT?
+───────────────
+
+BBox Claudit v1.9 is the PERFECT VISUAL ALIGNMENT release. The interface
+now matches BobAI's aesthetic exactly, providing a consistent, professional
+experience across the entire BentoBox Tools suite.
+
+Future enhancements may include:
+  • Cost budget alerts
+  • Trend analysis graphs
+  • CSV/JSON export
+  • Custom date ranges
+  • Team aggregation
+
+🔗 SUPPORT & FEEDBACK
+─────────────────────
+
+Liked the audit? Buy a coffee: https://ko-fi.com/bboxtools
+
+Found a bug or have a feature request?
+Visit: https://ko-fi.com/bboxtools
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Thank you for using BBox Claudit!
+
+© 2026 Donald Peters | BentoBox Tools | All Rights Reserved
+
+═══════════════════════════════════════════════════════════════════════════════

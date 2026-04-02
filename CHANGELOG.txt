@@ -1,0 +1,117 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ BBox Claudit - Version History & Changelog                                  │
+│ © 2026 Donald Peters | BentoBox Tools                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+VERSION 1.8 (April 2, 2026) - PROFESSIONAL GLOBAL BUILD
+═══════════════════════════════════════════════════════
+✨ MAJOR UPDATES:
+  • Professional rounded Unicode box header (╭╮╰╯─│)
+  • Official branding: "The Universal Global Auditor"
+  • Removed "(Bob-ified)" from all titles for professional appearance
+
+🌐 GLOBAL CURRENCY ENGINE:
+  • Updated API endpoint: https://api.frankfurter.dev/v2/latest
+  • Dual endpoint fallback (v2 + latest) for reliability
+  • Refined Global Vault rates:
+    - CAD: 1.39 (was 1.394)
+    - EUR: 0.87 (was 0.873)
+    - GBP: 0.75 (was 0.759)
+    - JPY: 159.8 (was 159.87)
+    - CNY: 6.9 (was 6.91)
+  • ISO currency code labeling: $10.00 USD ($13.90 CAD)
+  • Manual override confirmed: claudit -c [ISO]
+
+🎨 PROFESSIONAL COLOR MAP:
+  • Savings & Checkmarks: Bright Green (92m)
+  • Local Conversions: Magenta (95m)
+  • USD Amounts: Bold White (1;97m)
+  • Headers & Borders: Cyan (96m)
+  • Pro Tips: Yellow (93m)
+
+✅ SUMMARY PRIORITY:
+  • Daily Spend is FIRST item in checkbox block
+  • Proper spacing and alignment
+  • Green checkmarks with magenta currency conversions
+
+📦 DISTRIBUTION:
+  • Updated claudit_dist folder with v1.8
+  • Updated ~/.claude/skills/claudit/SKILL.md
+  • Professional README with version history
+
+🔗 BRANDING:
+  • Sign-off: "Liked the audit? Buy a coffee: ko-fi.com/bboxtools"
+  • Clean, production-ready interface
+  • All Rights Reserved notice
+
+
+VERSION 1.7 (April 2, 2026) - BOB-IFIED UI
+═══════════════════════════════════════════
+  • Added ANSI color codes for terminal output
+  • Cyan headers and borders (BobAI's box color)
+  • Magenta local currency conversions
+  • Green savings and checkboxes (READY text)
+  • Yellow pro tips
+  • White/bold USD amounts
+  • Enhanced visual hierarchy
+
+
+VERSION 1.6 (April 2, 2026) - UNIVERSAL GLOBAL BUILD
+════════════════════════════════════════════════════
+  • 100+ currency support with Global Vault
+  • Live exchange rate API integration (frankfurter.dev)
+  • Smart fallback system (LIVE SYNC 🌐 or VAULT 💾)
+  • Command line currency selection (-c flag)
+  • Updated branding: Ko-fi link
+  • Multi-currency display throughout
+
+
+VERSION 1.0 (April 2, 2026) - INITIAL RELEASE
+═════════════════════════════════════════════
+  • Multi-project cost tracking
+  • USD/CAD dual currency display
+  • Historical data integration (stats-cache.json)
+  • Prompt caching savings calculator
+  • Idle day cost verification ($0.00)
+  • Daily/Weekly/Monthly/Yearly breakdowns
+  • Project-level itemization
+
+
+FEATURE HIGHLIGHTS
+═════════════════
+✅ 100+ ISO 4217 currencies supported
+✅ Live exchange rates with offline fallback
+✅ Professional colorized interface
+✅ Rounded Unicode borders
+✅ Prompt caching savings tracker
+✅ Multi-timeframe reporting
+✅ Project cost breakdown
+✅ Model usage analysis (Sonnet/Opus/Haiku)
+✅ Idle day verification
+✅ Direct billing dashboard link
+✅ Claude Code skill integration
+✅ Cross-platform portable (expanduser)
+
+
+ROADMAP
+═══════
+🔮 Potential future enhancements:
+  • Cost budget alerts
+  • Weekly/monthly spending trends graphs
+  • Export to CSV/JSON
+  • Custom date range filtering
+  • Team/organization aggregation
+  • API key cost tracking per project
+
+
+SUPPORT & CONTRIBUTIONS
+════════════════════════
+Found a bug? Have a feature request?
+Support: https://ko-fi.com/bboxtools
+
+Liked the audit? Buy a coffee to support development!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+End of Changelog
+═══════════════════════════════════════════════════════════════════════════════
