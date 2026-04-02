@@ -1,4 +1,6 @@
-![BentoBox Tools Logo](logo.png)
+<p align="center">
+  <img src="logo.png" width="300" alt="BentoBox Tools Logo">
+</p>
 
 # BBox Claudit
 
