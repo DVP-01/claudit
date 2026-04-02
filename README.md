@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="300" alt="BentoBox Tools Logo">
+  <img src="logo.png" width="150" alt="BentoBox Tools Logo">
 </p>
 
 # BBox Claudit
