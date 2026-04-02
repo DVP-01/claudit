@@ -68,19 +68,9 @@ claudit BRL
 
 ## Sample Output
 
-```
-╭────────────────────────────────────────╮
-│ BBox Claudit v1.9                      │
-│ Claude Code Use/Cost Auditor           │
-│                                        │
-│ © 2026 Donald Peters | BentoBox Tools  │
-│ All Rights Reserved                    │
-╰────────────────────────────────────────╯
-Liked the audit? Buy a coffee: https://ko-fi.com/bboxtools
-
-💰 CLAUDE CODE - USAGE & COST BREAKDOWN
-...
-```
+<p align="center">
+  <img src="Sample_output.png" width="700" alt="Claude Code Use/Cost Auditor Sample Output">
+</p>
 
 ---
 
