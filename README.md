@@ -1,3 +1,5 @@
+![BentoBox Tools Logo](logo.png)
+
 # BBox Claudit
 
 **Claude Code Use/Cost Auditor** by [BentoBox Tools](https://ko-fi.com/bboxtools)
