@@ -7,7 +7,7 @@ VERSION 1.8 (April 2, 2026) - PROFESSIONAL GLOBAL BUILD
 ═══════════════════════════════════════════════════════
 ✨ MAJOR UPDATES:
   • Professional rounded Unicode box header (╭╮╰╯─│)
-  • Official branding: "The Universal Global Auditor"
+  • Official branding: "Claude Code Use/Cost Auditor"
   • Removed "(Bob-ified)" from all titles for professional appearance
 
 🌐 GLOBAL CURRENCY ENGINE:
@@ -40,7 +40,7 @@ VERSION 1.8 (April 2, 2026) - PROFESSIONAL GLOBAL BUILD
   • Professional README with version history
 
 🔗 BRANDING:
-  • Sign-off: "Liked the audit? Buy a coffee: ko-fi.com/bboxtools"
+  • Sign-off: "Liked the audit? Buy me a Bento: ko-fi.com/bboxtools"
   • Clean, production-ready interface
   • All Rights Reserved notice
 
@@ -109,7 +109,7 @@ SUPPORT & CONTRIBUTIONS
 Found a bug? Have a feature request?
 Support: https://ko-fi.com/bboxtools
 
-Liked the audit? Buy a coffee to support development!
+Liked the audit? Buy me a Bento to support development!
 
 
 ═══════════════════════════════════════════════════════════════════════════════

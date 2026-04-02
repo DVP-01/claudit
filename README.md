@@ -88,7 +88,7 @@ See [CHANGELOG.txt](CHANGELOG.txt) for full release notes.
 
 ## Support
 
-If BBox Claudit saves you money, consider buying a coffee:
+If BBox Claudit saves you money, consider buying me a Bento:
 
 **[ko-fi.com/bboxtools](https://ko-fi.com/bboxtools)**
 

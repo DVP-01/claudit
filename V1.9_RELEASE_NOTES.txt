@@ -35,7 +35,7 @@ The rounded Unicode box header now features perfect color hierarchy:
 
 ┌─ Frame: BOBAI_BLUE (39) - All borders and corners (╭╮╰╯─│)
 ├─ Title: CYAN (51) + BOLD - "BBox Claudit v1.9"
-├─ Subtitle: WHITE (255) - "The Universal Global Auditor"
+├─ Subtitle: WHITE (255) - "Claude Code Use/Cost Auditor"
 └─ Copyright: GREY (244) - "© 2026 Donald Peters | BentoBox Tools"
 
 🎯 UI POLISH ACHIEVEMENTS
@@ -123,7 +123,7 @@ Future enhancements may include:
 🔗 SUPPORT & FEEDBACK
 ─────────────────────
 
-Liked the audit? Buy a coffee: https://ko-fi.com/bboxtools
+Liked the audit? Buy me a Bento: https://ko-fi.com/bboxtools
 
 Found a bug or have a feature request?
 Visit: https://ko-fi.com/bboxtools

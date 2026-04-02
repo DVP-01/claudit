@@ -10,7 +10,7 @@ Comprehensive cost analysis across all your Claude Code sessions.
 Supports 100+ currencies with live exchange rates and offline fallback.
 Professional BobAI-matched interface with perfect visual alignment.
 
-Liked the audit? Buy a coffee: ko-fi.com/bboxtools
+Liked the audit? Buy me a Bento: ko-fi.com/bboxtools
 """
 
 import json
@@ -853,7 +853,7 @@ Supported: 100+ currencies from the Global Vault
     print(f"{Colors.BOBAI_BLUE}│{Colors.RESET} {Colors.GREY}{_h3}{Colors.RESET}{' '*(_w-1-len(_h3))}{Colors.BOBAI_BLUE}│{Colors.RESET}")
     print(f"{Colors.BOBAI_BLUE}│{Colors.RESET} {Colors.GREY}{_h4}{Colors.RESET}{' '*(_w-1-len(_h4))}{Colors.BOBAI_BLUE}│{Colors.RESET}")
     print(f"{Colors.BOBAI_BLUE}╰{'─'*_w}╯{Colors.RESET}")
-    print(f"{Colors.GREEN}Liked the audit? Buy a coffee: https://ko-fi.com/bboxtools{Colors.RESET}")
+    print(f"{Colors.GREEN}Liked the audit? Buy me a Bento: https://ko-fi.com/bboxtools{Colors.RESET}")
 
     print(f"\n{Colors.YELLOW}🔍 Scanning Claude Code session logs...{Colors.RESET}")
     data = parse_all_sessions()
